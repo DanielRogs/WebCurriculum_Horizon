@@ -19,7 +19,7 @@ Site: https://horizonairlines.netlify.app/
   <img height = "80" src = "https://cdn-icons-png.flaticon.com/512/5968/5968242.png">
   <img height = "65" src = "https://cdn-icons-png.flaticon.com/512/5968/5968292.png">
   
-</div>
+</div><br>
 
 # Frameworks Utilizados:
 
