@@ -1,6 +1,6 @@
 # WebCurriculum_Horizon
 
-<h4> Currículo de desenvolvimento web desenvolvido durante as aulas de Front-End no SENAI </h4>
+<h4> Currículo de desenvolvimento web realizado durante as aulas de Front-End no SENAI </h4>
 Site: https://horizonairlines.netlify.app/
 <br>
 <br>
