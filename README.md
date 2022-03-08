@@ -9,20 +9,22 @@ Site: https://horizonairlines.netlify.app/
 * Formatação e desenvolvimento web;
 * Integração linguagem de programação e HTML;
 * UX Design.
+<br>
 
 # Linguagens Utilizadas:
 
-<div align = "center" padding = "10px">
+<div align = "center">
   
-  <img height = "100" src = "https://4.bp.blogspot.com/-K3xPJlyU5mk/XGfNIFz6yyI/AAAAAAAAR80/A4JTnhu4ilUdnQ3TgtgE414oRw55owL8QCLcBGAs/s1600/HTML%2B5.png">
-  <img height = "100" src = "https://cdn.freebiesupply.com/logos/large/2x/css3-logo-png-transparent.png">
+  <img height = "80" src = "https://cdn-icons-png.flaticon.com/512/5968/5968267.png">
+  <img height = "80" src = "https://cdn-icons-png.flaticon.com/512/5968/5968242.png">
+  <img height = "65" src = "https://cdn-icons-png.flaticon.com/512/5968/5968292.png">
   
 </div>
 
-# FrameWorks Utilizados:
+# Frameworks Utilizados:
 
 <div align = "center" padding = "10px">
   
-  <img height = "60" src = "https://cdn.freelogovectors.net/wp-content/uploads/2016/12/bootstrap-logo.png">
+  <img height = "65" src = "https://cdn-icons-png.flaticon.com/512/5968/5968672.png">
   
 </div>
